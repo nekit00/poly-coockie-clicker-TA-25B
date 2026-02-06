@@ -1,0 +1,8 @@
+.butt {
+  transition: transform 0.1s;
+  cursor: pointer;
+}
+
+.butt:active {
+  transform: scale(0.95);
+}
