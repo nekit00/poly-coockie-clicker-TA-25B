@@ -8,3 +8,6 @@
   - [x] Like the idea
   - [ ] Upgrade design
   - [ ] Make upgraders
+
+## Developer Log
+ - 06.10.26 - `README.md` update
